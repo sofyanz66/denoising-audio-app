@@ -1,10 +1,8 @@
-streamlit
 numpy==1.24.3
 scipy==1.10.1
 librosa==0.10.0.post2
 soundfile
 matplotlib
-PyWavelets
-tensorflow==2.15.0
-
-
+pywavelets
+streamlit
+tensorflow==2.12.0
